@@ -1,0 +1,4 @@
+sceneSetups:
+- path: "Assets/Resources/Sc\xE8nes/Premier_Test.unity"
+  isLoaded: 1
+  isActive: 1
